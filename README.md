@@ -3,7 +3,9 @@
 
 ## Abogabot
 
-[](assets/img/abogabot.png)
+<div style="text-align: center;vertical-align: middle;">
+    <img alt="Una imagen del logo de abogabot" src="assets/img/abogabot.png" width="485" height="516">
+</div>
 
 ## Contenido disponible
 
