@@ -4,7 +4,7 @@
 ## Abogabot
 
 <div style="text-align: center;vertical-align: middle;">
-    <img alt="Una imagen del logo de abogabot" src="assets/img/abogabot.png" width="485" height="516">
+    <img alt="Una imagen del logo de abogabot" src="assets/img/abogabot.png" width="242" height="258">
 </div>
 
 ## Contenido disponible
