@@ -11,10 +11,10 @@
 
 - [Buyer persona](2%20-%20Buyer%20persona.md)
 - [Público objetivo](3%20-%20Publico%20objetivo.md)
+- [Wireframe UX](4%20-%20Wireframe%20UX.md)
+- [UI](5%20-%20UI.md)
 
 ## Contenido pendiente
 
 - Toma de requerimientos
-- Wireframe UX
-- UI
 
